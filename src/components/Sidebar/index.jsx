@@ -18,6 +18,12 @@ export default function SideBar() {
                     <li>
                         <Link to={"/user/test_ctx2"} >Text Context 2</Link>
                     </li>
+                    <li>
+                        <Link to={"/user/redux_1"} >Text Redux 1</Link>
+                    </li>
+                    <li>
+                        <Link to={"/user/redux_2"} >Text Redux 2</Link>
+                    </li>
                 </ul>
             </div>
 
